@@ -9,22 +9,20 @@ Thursday from 8:30AM to 11:30PM
 ### Contact Info
 
 - **Instructor**: Guray Erus, guray.erus@pennmedicine.upenn.edu
-- **Teaching Assistant**: Vikas Bommineni, vikas.bommineni@pennmedicine.upenn.edu
+- **Teaching Assistant**: Tristan Grupp, tgrupp@design.upenn.edu
 
 ### Office hours
 
 - **Instructor**: Friday 3PM to 5PM on Zoom 
 
-https://pennmedicine.zoom.us/j/98465605536?pwd=aTNHMHVIZEowWHJoeTRubDZEQytCdz09
+https://pennmedicine.zoom.us/j/92234699148
 
-Meeting ID: 984 6560 5536
-
-Passcode: MUSA650
+Meeting ID: 92234699148
 
 ### Course Websites
 
-- GitHub: https://github.com/MUSA-650/MUSA-650_Spring2023
-- Canvas: https://canvas.upenn.edu/courses/1704993 
+- GitHub: https://github.com/MUSA-650/MUSA-650_Spring2024
+- Canvas: https://canvas.upenn.edu/courses/XXXXXX 
 
 ## Course Description
 
@@ -56,19 +54,19 @@ This course relies on use of Python and various related packages. The class will
 
 | Class #                | Date  | Topic                            | HW & Project |
 | ---------------------- | ----- | -------------------------------- | ------------ |
-| Week 1                 | 1/12  | Overview of remote sensing and satellite imagery appications | |
-| Week 2                 | 1/19  | Fundamentals of machine learning from a remote sensing perspective | |
-| Week 3                 | 1/26  | Data preparation: imaging feature extraction, visualization, normalization, data harmonization |  HW1 |
-| Week 4                 | 2/2   | Dimensionality reduction and unsupervised learning | | 
-| Week 5                 | 2/9   | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization | HW2 |
-| Week 6                 | 2/16  | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification | |
-| Week 7                 | 2/23  | Ensemble methods in machine learning. Case studies: DSTL and EuroSat challenges | HW3 |
-| Week 8                 | 3/2  | Fundamentals of deep learning | |
+| Week 1                 | 1/18  | Overview of remote sensing and satellite imagery appications | |
+| Week 2                 | 1/25  | Fundamentals of machine learning from a remote sensing perspective | |
+| Week 3                 | 2/1  | Data preparation: imaging feature extraction, visualization, normalization, data harmonization |  HW1 |
+| Week 4                 | 2/8   | Dimensionality reduction and unsupervised learning | | 
+| Week 5                 | 2/15   | Supervised learning for land cover classification, Part 1: training, cross-validation, method and model selection, parameter optimization | HW2 |
+| Week 6                 | 2/22  | Supervised learning for land cover classification, Part 2: validation, evaluation, multi-class classification | |
+| Week 7                 | 2/29  | Ensemble methods in machine learning. Case studies: DSTL and EuroSat challenges | HW3 |
 | Spring Break           |      | | | 
-| Week 9                 | 3/9  | Recent advances in deep learning: literature review and paper discussion | HW4 |
-| Week 10                | 3/23  | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  | Project Proposals |
-| Week 11                | 3/30  | Case studies: DSTL and EuroSat challenges revisited | |
-| Week 12                | 4/6  | Case study: predictive modeling using deep learning |  |
-| Week 13                | 4/13  | Big data and machine learning: techniques, tools, challenges, future directions | |
-| Week 14                | 4/20  | Reviews | Project Presentations |
+| Week 8                 | 3/14  | Fundamentals of deep learning | |
+| Week 9                 | 3/21  | Recent advances in deep learning: literature review and paper discussion | HW4 |
+| Week 10                | 3/28  | Convolutional neural networks for image classification; UNet architecture for semantic segmentation  | Project Proposals |
+| Week 11                | 4/4  | Case studies: DSTL and EuroSat challenges revisited | |
+| Week 12                | 4/11  | Case study: predictive modeling using deep learning |  |
+| Week 13                | 4/18  | Big data and machine learning: techniques, tools, challenges, future directions | |
+| Week 14                | 4/25  | Reviews | Project Presentations |
 
