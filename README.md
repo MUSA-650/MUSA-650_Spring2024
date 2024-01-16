@@ -3,7 +3,7 @@
 - [Course Syllabus](MUSA650_Syllabus.md)
 - [Recommended reading materials](ReadingMaterials.md)
 
-### Zoom Link for the online class (please note there is a passcode):
+### Zoom Link for the online class
 Topic:  MUSA-650 Online Class
 Time:   Jan 12, 2023 8:30 AM Eastern Time (US and Canada)
 
