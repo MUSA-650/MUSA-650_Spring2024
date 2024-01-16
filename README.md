@@ -7,7 +7,7 @@ Satellite remote sensing is the science of converting raw aerial imagery into ac
 
 ### Zoom Link for the online class
 Topic:  MUSA-650 Online Class
-Time:   Jan 12, 2023 8:30 AM Eastern Time (US and Canada)
+Time:   Jan 18, 2023 8:30 AM Eastern Time (US and Canada)
 
 Join Zoom Meeting
 
