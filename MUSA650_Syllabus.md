@@ -38,7 +38,7 @@ The main learning goal of this class is to provide students essential knowledge 
 
 ## Grading: 
 
-The grading breakdown is as follows: 40% for homework (4HW), 30% for project (1 PRJ), 20% for participation and %10 for final quiz. Homework and projects grade are not directly linked to accuracy of the final applications. Multiple factors, including data organization, model selection and presentation of the results will be evaluated.
+The grading breakdown is as follows: 40% for homework (4HW), 30% for project (1 PRJ), 20% for participation and %10 for final quiz. Homework and project grades are not directly linked to accuracy of the final applications. Multiple factors, including data organization, model selection and presentation of the results will be evaluated.
 
 Homework assignments will involve implementation of machine learning applications using toy datasets provided by the instructor. Homework is assigned before the end of a class and is due at the end of the following week's class (unless indicated otherwise). Late homework will be accepted but penalized. Students are encouraged to work in groups, but they must submit a homework assignment that is uniquely theirs.
 
