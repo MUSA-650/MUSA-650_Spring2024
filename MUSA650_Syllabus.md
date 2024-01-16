@@ -22,8 +22,8 @@ Meeting ID: 92234699148
 ### Course Websites
 
 - GitHub: https://github.com/MUSA-650/MUSA-650_Spring2024
-- Canvas: https://canvas.upenn.edu/courses/XXXXXX 
-
+- Canvas: https://canvas.upenn.edu/courses/1770699
+  
 ## Course Description
 
 Satellite remote sensing is the science of converting raw aerial imagery into actionable intelligence about the built and natural environment. This course will provide students the foundation necessary for application of machine learning algorithms on satellite imagery. Use cases include building footprint detection, multi-class object detection in cities and land cover/land use classification. The students will learn basic concepts of machine learning, including unsupervised and supervised learning, model selection, feature elimination, cross-validation and performance evaluation. After learning traditional methods and algorithms, the course will focus on recent deep learning methods using convolutional neural networks and their application on semantic image segmentation.
