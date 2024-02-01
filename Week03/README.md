@@ -7,3 +7,5 @@ This week's class is a hands on practice session. The objective is to work on ex
 - [ML application on small data](Prac2_ml_on_small_data.ipynb)
 - [ML application with larger data](Prac1_boston-house-price-prediction.ipynb)
 - [Article of the week](https://www.nature.com/articles/d41586-019-02307-y)
+
+NOTE: HW1 will be announced by the TA of the class. The folder HW1 has examples from the past year for practice with solutions. Please follow announcements on Canvas.
