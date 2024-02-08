@@ -1,6 +1,13 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week4: Supervised learning, bias variance threadoff, model complexity, PCA
+## Week4: 
+
+### Hands-on Morning Session
+
+- [Brain age prediction challenge](BrainAgePrediction_TrainData.zip)
+  Download the zip file and start the jupyter-lab notebook for the task description
+
+### New Topics: Supervised learning, bias variance threadoff, model complexity, PCA
 
 This repository contains:
 
