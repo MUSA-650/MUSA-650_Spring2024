@@ -2,7 +2,7 @@
 
 ## Week4: 
 
-### Hands-on Morning Session
+### Morning Session (hands-on):
 
 - [Brain age prediction challenge](BrainAgePrediction_TrainData.zip)
   Download the zip file and start the jupyter-lab notebook for the task description
