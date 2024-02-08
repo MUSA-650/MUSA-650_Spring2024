@@ -7,6 +7,8 @@
 - [Brain age prediction challenge](BrainAgePrediction_TrainData.zip)
   Download the zip file and start the jupyter-lab notebook for the task description
 
+- [Notebook for the brain age prediction task](week4_practice_brainage.ipynb)
+
 ### New Topics: Supervised learning, bias variance threadoff, model complexity, PCA
 
 This repository contains:
