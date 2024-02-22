@@ -1,6 +1,8 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week5: Bias variance threadoff, model complexity, evaluation
+## Week5: Cross-validation, bias variance threadoff, model complexity, evaluation
+
+[Cross-validation: evaluating estimator performance](https://scikit-learn.org/stable/modules/cross_validation.html)
 
 This repository contains:
 
