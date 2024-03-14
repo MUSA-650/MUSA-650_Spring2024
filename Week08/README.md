@@ -9,7 +9,10 @@ This repository contains:
 - [Keras vs PyTorch](https://www.kaggle.com/code/utcarshagrawal/keras-vs-pytorch-a-perfect-guide/notebook)
 - [Setting up your PC for DL - Ubuntu](https://mlwhiz.com/blog/2020/06/06/dlrig)
 - [Setting up your PC for DL - Windows](https://rsandstroem.github.io/gpuDeepLearningWindows.html)
--
+
+Second part of class: 
+
+Presentation by Nissim Lebovits - Google Earth Engine (GEE) for Urban Planning 
 
 Data for the notebooks is in:
 
