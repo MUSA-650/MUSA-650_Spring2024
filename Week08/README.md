@@ -4,6 +4,7 @@
 
 This repository contains:
 
+- [DL visual presentation](https://www.youtube.com/watch?v=aircAruvnKk)
 - [DL training](https://youtu.be/IHZwWFHWa-w)
 - [Keras vs PyTorch](https://www.kaggle.com/code/utcarshagrawal/keras-vs-pytorch-a-perfect-guide/notebook)
 - [Setting up your PC for DL - Ubuntu](https://mlwhiz.com/blog/2020/06/06/dlrig)
