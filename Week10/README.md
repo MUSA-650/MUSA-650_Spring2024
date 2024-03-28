@@ -6,6 +6,7 @@ This repository contains:
 
 - [Visualization of CNNs](DL_VisConvFilters.ipynb)
 - [CNN Application](DL_Application_Planesnet_CNN.ipynb)
+- [How to train a fully connected network?](https://www.3blue1brown.com/lessons/gradient-descent)
 - [Semantic segmentation and UNets](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net)
 - [Generative Adverserial Networks](https://phillipi.github.io/pix2pix/)
 - [Keras vs PyTorch](https://www.kaggle.com/code/utcarshagrawal/keras-vs-pytorch-a-perfect-guide/notebook)
