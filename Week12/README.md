@@ -4,6 +4,7 @@
 
 We will learn transfer learning, a technique used for adapting a pre-trained model to a new problem. We will then review few specialized architectures, auto-encoders for unsupervised learning, and UNet for image segmentation problems. We will see an example of a sligthly more complex network architecture, Siamese network, and discuss adverserial networks.
 
+- [UNet tutorial - New free link](https://github.com/christianversloot/machine-learning-articles/blob/main/u-net-a-step-by-step-introduction.md)
 - [Transfer Learning - Using pre-trained models](https://neptune.ai/blog/transfer-learning-guide-examples-for-images-and-text-in-keras)
 - [Transfer learning, example implementation](DL_TransferLearning.ipynb)
 - [Other types of DL models, Auto-encoders](DL_Autoencoders.ipynb)
