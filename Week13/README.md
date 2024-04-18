@@ -9,6 +9,6 @@ This repository contains:
 - [Orbital Insight Platform](https://orbitalinsight.com/geospatial-technology)
 - [Eagleview Platform](https://www.eagleview.com/product/eagleview-reveal/)
 - [Spaceknow Platform](https://spaceknow.com)
-- [SpaceNet Datasets and Challenges](https://spacenet.ai) 
-- [Vision Transformers in Remote Sensing](https://www.satellite-image-deep-learning.com/p/transformers-in-remote-sensing](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
+- [SpaceNet Datasets and Challenges](https://spacenet.ai)
+- [Vision Transformers in Remote Sensing](https://github.com/VIROBO-15/Transformer-in-Remote-Sensing)
 - [Current Trends in Deep Learning for Earth Observation](https://arxiv.org/pdf/2207.07189.pdf)
